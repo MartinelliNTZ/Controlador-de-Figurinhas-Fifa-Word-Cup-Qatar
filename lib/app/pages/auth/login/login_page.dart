@@ -94,17 +94,14 @@ class _LoginPageState extends LoginViewImpl {
                   ),
                   Row(
                     children: [
-                      TextButton(
-                        onPressed: () {
-                          showInfo('Função não implementada!');
-                        },
+                     
                         child: Text(
                           'Esqueceu a senha?',
                           style: context.textStyles.textSecondaryFontMedium
                               .copyWith(
                                   color: context.colors.yellow, fontSize: 14),
                         ),
-                      ),
+                      
                     ],
                   ),
                   const SizedBox(
