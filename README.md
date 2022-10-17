@@ -28,10 +28,10 @@ Aplicativo criado durante 8 Dart Week, administrada pela Academia do Flutter-Rod
 ![](assets/images/app_pronto/filtro4.png)
 
 # PÁGINA DE FIGURINHAS
-POSSUÍDAS -->
+# POSSUÍDAS -->
 ![](assets/images/app_pronto/figurinhas_possuidas.png)
 
-NÃO POSSUÍDAS-->
+# NÃO POSSUÍDAS-->
 ![](assets/images/app_pronto/figurinhas_nao_poss.png)
 
 # íCONE
