@@ -93,9 +93,8 @@ class _LoginPageState extends LoginViewImpl {
                     height: 8,
                   ),
                   Row(
-                    children: [
-                     
-                        child: Text(
+                    children: [                     
+                         Text(
                           'Esqueceu a senha?',
                           style: context.textStyles.textSecondaryFontMedium
                               .copyWith(
